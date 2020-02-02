@@ -1,0 +1,2 @@
+# ICTCS-SITE
+ Oficial website of ICTCS or Information and Communication Technology and Computing Society is a society consists of Undergraduates of the Department of Physical Science of Vavuniya Campus. It provides assistance to improve the quality of the degree program conducted by the Department of Physical Science. Further, the ICTCS act as a forum in the improvement of relations between ICT, Applied Mathematics and Computing, and Computer Science undergraduates of the Faculty, and expose undergraduates to the industry and make awareness on trends and technology.
